@@ -20,7 +20,6 @@
     "express": "^4.17.2",
     "mongoose": "^6.1.5",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.15",
-    "react-router-dom": "^6.2.1"
+    "nodemon": "^2.0.15"
   }
 }
