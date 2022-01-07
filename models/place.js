@@ -7,7 +7,7 @@ const Place = new Schema(
         price: {type: String, required: true},
         address: { type: String, required: true },
         description: { type: String, required: true },
-        url: { type: String, required: true },
+        image: { type: String, required: true },
         petsallow:{type: Boolean, required: true},
         location: {type: Schema.Types.ObjectId, ref: 'locations'}
     },
